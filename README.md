@@ -50,10 +50,10 @@ project_orangebank/
 
 ## 🛠️ Stack Tecnológica
 
+- **Landing Page**: HTML/CSS/JavaScript
 - **Frontend**: TypeScript + Angular
 - **Backend**: Java + Spring Boot
 - **Banco de Dados**: PostgreSQL
-- **Landing Page**: HTML/CSS/JavaScript
 
 ## 📋 Componentes Futuros
 
