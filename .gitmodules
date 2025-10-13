@@ -1,3 +1,6 @@
 [submodule "orangebank/www/landing-page"]
 	path = orangebank/www/landing-page
 	url = https://github.com/johnnysoutodev/project_orangebank_lp.git
+[submodule "orangebank/app/front-end"]
+	path = orangebank/app/front-end
+	url = https://github.com/johnnysoutodev/project_orangebank_fe.git
