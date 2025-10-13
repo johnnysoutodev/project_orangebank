@@ -64,8 +64,8 @@ project_orangebank/
 | Componente | Plataforma | URL de Produção |
 |------------|------------|-----------------|
 | Landing Page | Vercel | `https://www.orangebank.com.br/` |
-| Front-End | Vercel | `https://app-orangebank.com.br` |
-| Back-End API | Railway | `https://orangebank-api.railway.app` |
+| Front-End | Vercel | `https://app.orangebank.com.br` |
+| Back-End API | Railway | `https://api.orangebank.com.br` |
 | Banco de Dados | Railway | PostgreSQL (privado) |
 
 ## 📋 Componentes Futuros
