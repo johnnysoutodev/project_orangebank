@@ -29,7 +29,7 @@ project_orangebank/
 ## 📋 Componentes Futuros
 
 - [ ] API Backend
-- [ ] Aplicativo Mobile
+- [ ] Front-End PWA
 - [ ] Dashboard Administrativo
 - [ ] Documentação Técnica
 
