@@ -77,7 +77,20 @@ project_orangebank/
 
 ## 🤝 Contribuindo
 
-Para contribuir com qualquer componente do projeto OrangeBank, acesse o diretório específico e siga as instruções de desenvolvimento de cada subprojeto.
+Este é um projeto **privado** e requer permissões específicas para contribuição.
+
+### Como solicitar acesso:
+1. **Solicite permissão** através do perfil do mantenedor: [@johnnysoutodev](https://github.com/johnnysoutodev)
+2. **Aguarde aprovação** para obter acesso aos repositórios
+3. **Após aprovação**, acesse o componente específico e siga as instruções de desenvolvimento
+
+### Processo de contribuição:
+- Acesso controlado aos repositórios privados
+- Code review obrigatório
+- Seguir padrões de desenvolvimento estabelecidos
+- Documentação adequada para mudanças
+
+Para mais informações sobre permissões e acesso, entre em contato através do GitHub.
 
 ---
 
