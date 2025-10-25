@@ -10,11 +10,22 @@ project_orangebank/
 │   ├── app/
 │   │   ├── front-end/        # Aplicação web principal (TypeScript/Angular)
 │   │   └── back-end/         # API e serviços backend (Java/Spring)
+│   │       ├── src/
+│   │       ├── database/
+│   │       │   ├── migrations/     # Scripts de migração do banco
+│   │       │   ├── seeds/          # Dados iniciais
+│   │       │   └── scripts/        # Scripts SQL diversos
+│   │       └── application.yml     # Configurações do PostgreSQL
 │   ├── admin/
-│   │   ├── front-end/        # Aplicação admin com dashboard's sobre a aplicação (TypeScript/Angular)
-│   │   └── back-end/         # API e serviços backend da página Admin (Java/Spring)
+│   │   ├── front-end/        # Aplicação admin (TypeScript/Angular)
+│   │   └── back-end/         # API backend da página Admin (Java/Spring)
+│   │       ├── src/
+│   │       ├── database/
+│   │       │   ├── migrations/     # Migrations específicas do admin
+│   │       │   └── scripts/        # Scripts SQL do admin
+│   │       └── application.yml     # Configurações do PostgreSQL
 │   └── www/
-│       └── landing-page/     # Página web de divulgação do projeto OrangeBank
+│       └── landing-page/     # Página web de divulgação
 ├── README.md
 └── ...
 ```
