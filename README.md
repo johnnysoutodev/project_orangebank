@@ -9,8 +9,10 @@ project_orangebank/
 ├── orangebank/
 │   ├── app/
 │   │   ├── front-end/        # Aplicação web principal (TypeScript/Angular)
-│   │   ├── back-end/         # API e serviços backend (Java/Spring)
-│   │   └── admin/            # Admin com Dashboard sobre a aplicação (TypeScript/Angular)
+│   │   └── back-end/         # API e serviços backend (Java/Spring)
+│   ├── admin/
+│   │   ├── front-end/        # Aplicação admin com dashboard's sobre a aplicação (TypeScript/Angular)
+│   │   └── back-end/         # API e serviços backend da página Admin (Java/Spring)
 │   └── www/
 │       └── landing-page/     # Página web de divulgação do projeto OrangeBank
 ├── README.md
